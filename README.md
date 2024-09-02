@@ -16,4 +16,4 @@ Both `app1` and `app2` are independently deployed apps:
 
 Check out this link below for more examples:
 
-[https://github.com/module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples)
+
